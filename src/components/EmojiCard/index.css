@@ -1,0 +1,16 @@
+/* Write your code here. */
+li {
+  list-style: none;
+}
+.emoji-list {
+  background: rgba(255, 255, 255, 0.3);
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  cursor: pointer;
+}

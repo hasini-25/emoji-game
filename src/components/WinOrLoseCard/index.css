@@ -1,0 +1,40 @@
+/* Write your code here. */
+.card-bg {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 40px;
+  border: 1px solid white;
+  border-radius: 20px;
+  width: 55%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  font-family: 'Roboto';
+}
+.card-heading {
+  color: white;
+  font-size: 50px;
+  font-weight: 500;
+}
+.card-score-para {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 0px;
+}
+.card-score-number {
+  margin: 0px;
+  color: #6a59ff;
+  font-size: 30px;
+  font-weight: 600;
+}
+.card-score-button {
+  background-color: #ffce27;
+  border-radius: 20px;
+  padding: 10px;
+  height: 40px;
+  width: 110px;
+  border: 0px;
+  font-weight: 600;
+  margin: 10px;
+}
